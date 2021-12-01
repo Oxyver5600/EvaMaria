@@ -56,7 +56,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Oxyver5600/evamaria/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -106,7 +106,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![Oxyver_Owner](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Oxyver_Owner)
 
 
 ## Thanks to 
